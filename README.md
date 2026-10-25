@@ -17,8 +17,8 @@
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/dark.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/remix-run/react-router-website/refs/heads/main/public/_brand/react-router-brand-assets/lockup/Dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/remix-run/react-router-website/refs/heads/main/public/_brand/react-router-brand-assets/lockup/Light.png">
 </picture>
 
 ## A test for light/dark mode images using `picture` with relative paths 
